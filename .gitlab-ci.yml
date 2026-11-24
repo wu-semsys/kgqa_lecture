@@ -1,6 +1,0 @@
-clone_to_nfs:
-  tags:
-    - jhub-nfs-its
-  script:
-    - echo "Deploying new material to the JupyterHub NFS"
-    - rsync -av --no-perms --delete --no-owner --no-group --omit-dir-times lecture-materials/ /srv/nfs-kubernetes/jhub/share_dirs/jhub-sbwl-km-shared-pvc-3aa721c9-f2ce-4e33-aef2-cc2eb9545a86
