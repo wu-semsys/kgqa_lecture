@@ -1,3 +1,4 @@
-## 📚 SBWL-KM K3 - Course Materials
+## 📚 KGQA - Course Materials
 
 ## 📬 Contact & Feedback
+* [Fajar J. Ekaputra](mailto:fajar.ekaputra@wu.ac.at)
